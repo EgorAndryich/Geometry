@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	int n;
-	printf("Enter  Fucntion \n");
+	printf("Enter type of Fucntion \n");
 	cin >> ("%d", n);
 	switch (n) {
 	case 1:
@@ -14,3 +14,4 @@ int main()
 	default:
 		printf("Error");
 	}
+}
