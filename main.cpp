@@ -11,9 +11,9 @@ void circle()
 	cin >> ("%d", Radius);
 	Area = 3.14 * Radius * Radius;
 	Perimetr = Radius * 2 * 3.14;
-	printf("perimetr: ");
+	printf("Perimetr: ");
 	cout << ("%d", Perimetr);
-	printf(" area: ");
+	printf(" Area: ");
 	cout << ("%d", Area);
 }
 
